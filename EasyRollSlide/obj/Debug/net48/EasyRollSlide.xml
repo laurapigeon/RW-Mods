@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EasyRollSlide</name>
+    </assembly>
+    <members>
+        <member name="T:EasyRollSlide.AttachedField`2">
+            <summary>
+            A collection that attaches values to objects using <see cref="T:System.WeakReference"/>. By Slime_Cubed
+            </summary>
+            <remarks>
+            This is like ConditionalWeakTable, but with one major drawback:
+            values that reference the key will stop the key from being garbage collected.
+            <para>Make sure that each instance of <typeparamref name="TValue"/> contains
+            no references to the key, otherwise a memory leak may occur!</para>
+            </remarks>
+            <typeparam name="TKey">The type to attach the value to.</typeparam>
+            <typeparam name="TValue">The type the the attached value.</typeparam>
+        </member>
+        <member name="E:EasyRollSlide.AttachedField`2.OnCulled">
+            <summary>
+            Called after a key is garbage collected.
+            </summary>
+        </member>
+        <member name="M:EasyRollSlide.AttachedField`2.Set(`0,`1)">
+            <summary>
+            Updates or attaches a value to an object.
+            </summary>
+            <param name="obj">The object to attach to.</param>
+            <param name="value">The value to set.</param>
+        </member>
+        <member name="M:EasyRollSlide.AttachedField`2.Unset(`0)">
+            <summary>
+            Detaches a value from an object.
+            </summary>
+            <param name="obj">The object to remove the attached value from.</param>
+        </member>
+        <member name="M:EasyRollSlide.AttachedField`2.Get(`0)">
+            <summary>
+            Retrieves a stored value for a given object.
+            </summary>
+            <param name="obj">The object to get from.</param>
+            <returns>The previously set value for this object, or default(<typeparamref name="TValue"/>) if unset.</returns>
+        </member>
+        <member name="M:EasyRollSlide.AttachedField`2.TryGet(`0,`1@)">
+            <summary>
+            Checks for and retrieves a stored value for a given object.
+            </summary>
+            <param name="obj">The object to get from.</param>
+            <param name="value">The previously set value for this obejct.</param>
+            <returns>True if a value exists for <paramref name="obj"/>, false otherwise.</returns>
+        </member>
+        <member name="P:EasyRollSlide.AttachedField`2.Item(`0)">
+            <summary>
+            Sets or retrieves the value attached to object.
+            </summary>
+            <param name="obj">The object key.</param>
+            <returns>The attached value, or default(<typeparamref name="TValue"/>) if the value has not been set.</returns>
+        </member>
+        <member name="M:EasyRollSlide.AttachedField`2.Clear">
+            <summary>
+            Clears all entries.
+            </summary>
+        </member>
+        <member name="P:EasyRollSlide.AttachedField`2.Count">
+            <summary>
+            The number of entries currently stored.
+            </summary>
+        </member>
+        <member name="M:EasyRollSlide.AttachedField`2.CullDead">
+            <summary>
+            Removes entries for which the key has been garbage collected.
+            </summary>
+        </member>
+    </members>
+</doc>

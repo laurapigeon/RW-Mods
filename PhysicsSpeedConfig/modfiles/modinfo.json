@@ -1,0 +1,11 @@
+{
+	"id": "physicsspeed",
+	"name": "Physics Speed Config",
+	"version": "1.1",
+	"hide_version": true,
+	"authors": "laura"
+	"description": "Adds configurable toggle/hold keybinds to slow down and speed up the physics calculations, for movement and tech!",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

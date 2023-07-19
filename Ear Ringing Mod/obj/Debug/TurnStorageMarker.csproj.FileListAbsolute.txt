@@ -1,0 +1,11 @@
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Turn Storage Marker\bin\Debug\Assembly-CSharp.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Turn Storage Marker\bin\Debug\ConfigMachine.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Turn Storage Marker\bin\Debug\HOOKS-Assembly-CSharp.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Turn Storage Marker\bin\Debug\Partiality.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Turn Storage Marker\bin\Debug\UnityEngine.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Turn Storage Marker\obj\Debug\TurnStorageMarker.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Turn Storage Marker\obj\Debug\TurnStorageMarker.csproj.CopyComplete
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Turn Storage Marker\bin\Debug\TurnStorageMarker.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Turn Storage Marker\bin\Debug\TurnStorageMarker.pdb
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Turn Storage Marker\obj\Debug\TurnStorageMarker.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Turn Storage Marker\obj\Debug\TurnStorageMarker.pdb

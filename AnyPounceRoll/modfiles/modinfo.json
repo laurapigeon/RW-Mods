@@ -1,0 +1,11 @@
+{
+	"id": "anypounceroll",
+	"name": "Any Pounce Roll",
+	"version": "1.0",
+	"hide_version": true,
+	"authors": "laura"
+	"description": "allows roll pounces of any height to chain into rolls, as well as short charge hops (though they aren't actually pounces)",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

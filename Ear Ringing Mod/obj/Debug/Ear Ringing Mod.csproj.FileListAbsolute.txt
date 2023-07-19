@@ -1,0 +1,12 @@
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Ear Ringing Mod\bin\Debug\Ear Ringing Mod.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Ear Ringing Mod\bin\Debug\Ear Ringing Mod.pdb
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Ear Ringing Mod\bin\Debug\Assembly-CSharp.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Ear Ringing Mod\bin\Debug\ConfigMachine.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Ear Ringing Mod\bin\Debug\HOOKS-Assembly-CSharp.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Ear Ringing Mod\bin\Debug\Partiality.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Ear Ringing Mod\bin\Debug\UnityEngine.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Ear Ringing Mod\obj\Debug\Ear Ringing Mod.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Ear Ringing Mod\obj\Debug\Ear Ringing Mod.csproj.CopyComplete
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Ear Ringing Mod\obj\Debug\Ear Ringing Mod.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Ear Ringing Mod\obj\Debug\Ear Ringing Mod.pdb
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Ear Ringing Mod\obj\Debug\Ear Ringing Mod.csprojAssemblyReference.cache

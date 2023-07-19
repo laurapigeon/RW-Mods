@@ -1,0 +1,11 @@
+{
+	"id": "throwmovement",
+	"name": "Throw Movement",
+	"version": "1.1",
+	"hide_version": true,
+	"authors": "laura"
+	"description": "Adds the configurable ability to generate rocks while on the ground, while one is in the stomach, for movement and tech!\\n\\nThis mod has effect when a rock is in slugcats stomach. *A* frames after coming into contact with the ground, slugcat will begin to generate a rock into any free hand, once every *B* frames. Any generated rocks will despawn after *C* frames. All values are configurable.\\n\\nThe mod is to help practice movement that requires throwboosts or extended slides, or also just to mess around ;3",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

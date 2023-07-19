@@ -1,0 +1,11 @@
+{
+	"id": "inchworm",
+	"name": "Inchworm",
+	"version": "1.0",
+	"hide_version": true,
+	"authors": "laura"
+	"description": "Adds configurable toggle/hold keybinds to slow down and speed up the physics calculations, for movement and tech!",
+	"requirements": ["fisobs"],
+	"requirements_names": ["Fisobs"],
+	"checksum_override_version": false
+}

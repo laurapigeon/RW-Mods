@@ -1,0 +1,11 @@
+{
+	"id": "directionalityfix",
+	"name": "Directionality Fix",
+	"version": "1.0",
+	"hide_version": true,
+	"authors": "laura"
+	"description": "fixes water bounces and crawl turns (where something different would happen going left compared to right)",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

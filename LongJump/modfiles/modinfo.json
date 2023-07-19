@@ -1,0 +1,11 @@
+{
+	"id": "longjump",
+	"name": "Long Jump",
+	"version": "1.0",
+	"hide_version": true,
+	"authors": "laura"
+	"description": "brings back some of the mario principle to this accursed game... lets slugcat long jump like a true mario bro",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

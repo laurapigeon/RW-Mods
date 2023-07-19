@@ -1,0 +1,16 @@
+{
+	"images": [
+		{"name":"Background - 5.png", "x":358, "y":117, "depth":3.5},
+		{"name":"Haze - 4.png", "x":425, "y":205, "depth":3.2, "shader":"3.0"},
+		{"name":"BkgPlants - 3.png", "x":457, "y":140, "depth":2.3, "shader":LightEdges},
+		{"name":"Perry - 2.png", "x":550, "y":200, "depth":2.1},
+		{"name":"Vines - 1.png", "x":451, "y":400, "depth":2, "shader":"Overlay"},
+		{"name":"FgPlants - 0.png", "x":383, "y":64, "depth":1.8}
+	],
+	"glowx":730,
+	"glowy":335,
+	"markx":740,
+	"marky":575,
+	"selectmenux":-10,
+	"selectmenuy":100
+}

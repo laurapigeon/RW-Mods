@@ -1,0 +1,11 @@
+{
+	"images": [
+		{"name":"New Death - 55",            "x":700, "y":250, "depth":4.5}
+		{"name":"New Death - 6",             "x":700, "y":250, "depth":4.0}
+		{"name":"New Death - 5.png",         "x":672, "y":236, "depth":3.5, "fade":0.2},
+		{"name":"New Death - 4.png",         "x":669, "y":138, "depth":2.8, "alpha":0.24, "fade":0.1},
+		{"name":"New Death - 3.png",         "x":696, "y":118, "depth":2.2, "fade":0.35},
+		{"name":"New Death - 2 - Perry.png", "x":677, "y":73 , "depth":1.7},
+		{"name":"New Death - 1.png",         "x":486, "y":-54, "depth":1.2}
+	]
+}

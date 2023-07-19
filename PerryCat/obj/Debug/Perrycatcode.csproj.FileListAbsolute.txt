@@ -1,0 +1,17 @@
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\bin\Debug\PerryCat.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\bin\Debug\PerryCat.pdb
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\bin\Debug\Assembly-CSharp.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\bin\Debug\ConfigMachine.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\bin\Debug\EnumExtender.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\bin\Debug\SlugBase.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\obj\Debug\PerryCat.SoundResources.resources
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\obj\Debug\Perrycatcode.csproj.GenerateResource.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\obj\Debug\Perrycatcode.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\obj\Debug\Perrycatcode.csproj.CopyComplete
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\obj\Debug\PerryCat.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\obj\Debug\PerryCat.pdb
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\bin\Debug\JollyCoop.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\bin\Debug\HOOKS-Assembly-CSharp.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\bin\Debug\Partiality.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PerryCat\bin\Debug\UnityEngine.dll

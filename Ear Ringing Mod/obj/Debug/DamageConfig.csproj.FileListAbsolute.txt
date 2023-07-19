@@ -1,0 +1,11 @@
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\DamageConfig\bin\Debug\DamageConfig.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\DamageConfig\bin\Debug\DamageConfig.pdb
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\DamageConfig\bin\Debug\Assembly-CSharp.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\DamageConfig\bin\Debug\HOOKS-Assembly-CSharp.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\DamageConfig\bin\Debug\Partiality.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\DamageConfig\bin\Debug\UnityEngine.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\DamageConfig\obj\Debug\DamageConfig.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\DamageConfig\obj\Debug\DamageConfig.csproj.CopyComplete
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\DamageConfig\obj\Debug\DamageConfig.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\DamageConfig\obj\Debug\DamageConfig.pdb
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\DamageConfig\bin\Debug\ConfigMachine.dll

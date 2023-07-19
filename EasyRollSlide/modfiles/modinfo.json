@@ -1,0 +1,11 @@
+{
+	"id": "easyrollslide",
+	"name": "Easy Roll Slide",
+	"version": "1.0",
+	"hide_version": true,
+	"authors": "laura"
+	"description": "allows for an easy slide from any point in a roll by repressing down and jump at the same time",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

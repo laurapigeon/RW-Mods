@@ -1,0 +1,11 @@
+{
+	"id": "movementmarker",
+	"name": "Movement Marker",
+	"version": "1.2",
+	"hide_version": true,
+	"authors": "laura"
+	"description": "Love data...?\\n\\nTHEN WHY DONT YOU MARRY IT\\nTO YOUR RAIN WORLD APPLICATION\\nAND LEARN SOME MOVEMENT WHILE U DO IT\\n\\n\\nAdds a configurable display of the important statistics about your slugcat, for movement and tech.\\n\\nComes with 2 forfun modes where you either get permanently given turn storage (infinite backflips) or die the second you lose it (really hard challenge :) ).\\n\\n(Massive credit to @SIime_Cubed for all the help with the graphics stuff, and letting me use their awesome InputButton class layout [and also figuring out that i was using the wrong .NET version to export {thanks a bunch <:)>}])",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

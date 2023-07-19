@@ -1,0 +1,11 @@
+{
+	"id": "pullupfix",
+	"name": "Pullup Fix",
+	"version": "1.0",
+	"hide_version": true,
+	"authors": "laura"
+	"description": "lets you choose how slugcat pulls up onto horizontal poles by holding a direction or not, so its not annoying anymore",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}
