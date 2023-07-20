@@ -329,11 +329,11 @@
 	    <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rain World\RainWorld_Data\Managed\UnityEngine.XRModule.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
-	<Target Name="CopyOutput" AfterTargets="Build" Condition="'$(RWMods_TripleJump)'!=''">
-		<Delete Files="$(RWMods_TripleJump)/**" />
-		<Message Text="DR: Buildcopy from [ $(TargetPath) ] to [ $(RWMods_TripleJump)/plugins ]" Importance="high" />
-		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(RWMods_TripleJump)/plugins" Retries="3" RetryDelayMilliseconds="300" />
-		<Copy SourceFiles="@(_CopyItems)" DestinationFolder="$(RWMods_TripleJump)/%(RecursiveDir)" Retries="3" RetryDelayMilliseconds="300" />
-		<!-- <Copy SourceFiles="modinfo.json" DestinationFolder="$(RWMods_TripleJump)" Retries="3" RetryDelayMilliseconds="300"/> -->
+	<Target Name="CopyOutput" AfterTargets="Build" Condition="'$(RWMods)/triplejump'!=''">
+		<Delete Files="$(RWMods)/triplejump/**" />
+		<Message Text="DR: Buildcopy from [ $(TargetPath) ] to [ $(RWMods)/triplejump/plugins ]" Importance="high" />
+		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(RWMods)/triplejump/plugins" Retries="3" RetryDelayMilliseconds="300" />
+		<Copy SourceFiles="@(_CopyItems)" DestinationFolder="$(RWMods)/triplejump/%(RecursiveDir)" Retries="3" RetryDelayMilliseconds="300" />
+		<!-- <Copy SourceFiles="modinfo.json" DestinationFolder="$(RWMods)/triplejump" Retries="3" RetryDelayMilliseconds="300"/> -->
 	</Target>
 </Project>

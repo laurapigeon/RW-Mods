@@ -117,3 +117,11 @@ C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\ThrowMovement\obj\Debug\net48
 C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\ThrowMovement\obj\Debug\net48\ThrowMovement.dll
 C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\ThrowMovement\obj\Debug\net48\ThrowMovement.xml
 C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\ThrowMovement\obj\Debug\net48\ThrowMovement.pdb
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\ThrowMovement\obj\Debug\net48\ThrowMovement.csproj.AssemblyReference.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\ThrowMovement\obj\Debug\net48\ThrowMovement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\ThrowMovement\obj\Debug\net48\ThrowMovement.AssemblyInfoInputs.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\ThrowMovement\obj\Debug\net48\ThrowMovement.AssemblyInfo.cs
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\ThrowMovement\obj\Debug\net48\ThrowMovement.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\ThrowMovement\obj\Debug\net48\ThrowMovement.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\ThrowMovement\obj\Debug\net48\ThrowMovement.xml
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\ThrowMovement\obj\Debug\net48\ThrowMovement.pdb

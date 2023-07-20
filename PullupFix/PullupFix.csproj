@@ -329,11 +329,11 @@
 	    <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rain World\RainWorld_Data\Managed\UnityEngine.XRModule.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
-	<Target Name="CopyOutput" AfterTargets="Build" Condition="'$(RWMods_PullupFix)'!=''">
-		<Delete Files="$(RWMods_PullupFix)/**" />
-		<Message Text="DR: Buildcopy from [ $(TargetPath) ] to [ $(RWMods_PullupFix)/plugins ]" Importance="high" />
-		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(RWMods_PullupFix)/plugins" Retries="3" RetryDelayMilliseconds="300" />
-		<Copy SourceFiles="@(_CopyItems)" DestinationFolder="$(RWMods_PullupFix)/%(RecursiveDir)" Retries="3" RetryDelayMilliseconds="300" />
-		<!-- <Copy SourceFiles="modinfo.json" DestinationFolder="$(RWMods_PullupFix)" Retries="3" RetryDelayMilliseconds="300"/> -->
+	<Target Name="CopyOutput" AfterTargets="Build" Condition="'$(RWMods)/pullupfix'!=''">
+		<Delete Files="$(RWMods)/pullupfix/**" />
+		<Message Text="DR: Buildcopy from [ $(TargetPath) ] to [ $(RWMods)/pullupfix/plugins ]" Importance="high" />
+		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(RWMods)/pullupfix/plugins" Retries="3" RetryDelayMilliseconds="300" />
+		<Copy SourceFiles="@(_CopyItems)" DestinationFolder="$(RWMods)/pullupfix/%(RecursiveDir)" Retries="3" RetryDelayMilliseconds="300" />
+		<!-- <Copy SourceFiles="modinfo.json" DestinationFolder="$(RWMods)/pullupfix" Retries="3" RetryDelayMilliseconds="300"/> -->
 	</Target>
 </Project>

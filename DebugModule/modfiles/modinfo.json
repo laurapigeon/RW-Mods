@@ -1,0 +1,11 @@
+{
+	"id": "debugmodule",
+	"name": "Debug Module",
+	"version": "1.0",
+	"hide_version": true,
+	"authors": "laura"
+	"description": "for logging and debugging and testing small tweaks",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Laura\\Documents\\LAURASSTICKMEMORIAL\\Codes\\Inchworm\\Inchworm.csproj",
+      "projectUniqueName": "C:\\Users\\Laura\\Documents\\LAURASSTICKMEMORIAL\\Codes\\RW Mods\\Inchworm\\Inchworm.csproj",
       "projectName": "Inchworm",
-      "projectPath": "C:\\Users\\Laura\\Documents\\LAURASSTICKMEMORIAL\\Codes\\Inchworm\\Inchworm.csproj",
+      "projectPath": "C:\\Users\\Laura\\Documents\\LAURASSTICKMEMORIAL\\Codes\\RW Mods\\Inchworm\\Inchworm.csproj",
       "packagesPath": "C:\\Users\\Laura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laura\\Documents\\LAURASSTICKMEMORIAL\\Codes\\Inchworm\\obj\\",
+      "outputPath": "C:\\Users\\Laura\\Documents\\LAURASSTICKMEMORIAL\\Codes\\RW Mods\\Inchworm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Laura\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,7 @@
     "frameworks": {
       "net48": {
         "targetAlias": "net48",
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

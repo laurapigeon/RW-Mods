@@ -1,0 +1,7 @@
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PerryCat\obj\Debug\net48\Perrycatcode.csproj.AssemblyReference.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PerryCat\obj\Debug\net48\Perrycatcode.SoundResources.resources
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PerryCat\obj\Debug\net48\Perrycatcode.csproj.GenerateResource.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PerryCat\obj\Debug\net48\Perrycatcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PerryCat\obj\Debug\net48\Perrycatcode.AssemblyInfoInputs.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PerryCat\obj\Debug\net48\Perrycatcode.AssemblyInfo.cs
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PerryCat\obj\Debug\net48\Perrycatcode.csproj.CoreCompileInputs.cache

@@ -319,19 +319,14 @@
 	    <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rain World\RainWorld_Data\Managed\UnityEngine.XRModule.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
-	<!-- Build event -->
 	<ItemGroup>
 		<_CopyItems Include="modfiles/**" />
 	</ItemGroup>
-	<Target Name="CopyOutput" AfterTargets="Build" Condition="'$(RWMods_Inchworm)'!=''">
-		<Delete Files="$(RWMods_Inchworm)/**" />
-		<Message Text="DR: Buildcopy from [ $(TargetPath) ] to [ $(RWMods_Inchworm) ]" Importance="high" />
-		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(RWMods_Inchworm)/plugins" Retries="3" RetryDelayMilliseconds="300" />
-		<Copy SourceFiles="@(_CopyItems)" DestinationFolder="$(RWMods_Inchworm)/%(RecursiveDir)" Retries="3" RetryDelayMilliseconds="300" />
-		<!-- <Copy 
-	    SourceFiles="modinfo.json"
-	    DestinationFolder="$(RWMods_Inchworm)"
-	    Retries="3"
-	    RetryDelayMilliseconds="300"/> -->
+	<Target Name="CopyOutput" AfterTargets="Build" Condition="'$(RWMods)/inchworm'!=''">
+		<Delete Files="$(RWMods)/inchworm/**" />
+		<Message Text="DR: Buildcopy from [ $(TargetPath) ] to [ $(RWMods)/inchworm/plugins ]" Importance="high" />
+		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(RWMods)/inchworm/plugins" Retries="3" RetryDelayMilliseconds="300" />
+		<Copy SourceFiles="@(_CopyItems)" DestinationFolder="$(RWMods)/inchworm/%(RecursiveDir)" Retries="3" RetryDelayMilliseconds="300" />
+		<!-- <Copy SourceFiles="modinfo.json" DestinationFolder="$(RWMods)/inchworm" Retries="3" RetryDelayMilliseconds="300"/> -->
 	</Target>
 </Project>

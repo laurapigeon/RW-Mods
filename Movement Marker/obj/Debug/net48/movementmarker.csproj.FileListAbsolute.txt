@@ -100,3 +100,11 @@ C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Movement Marker\obj\Debug\net
 C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Movement Marker\obj\Debug\net48\movementmarker.pdb
 C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Movement Marker\bin\Debug\net48\movementmarker.xml
 C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Movement Marker\obj\Debug\net48\movementmarker.xml
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Movement Marker\obj\Debug\net48\movementmarker.csproj.AssemblyReference.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Movement Marker\obj\Debug\net48\movementmarker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Movement Marker\obj\Debug\net48\movementmarker.AssemblyInfoInputs.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Movement Marker\obj\Debug\net48\movementmarker.AssemblyInfo.cs
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Movement Marker\obj\Debug\net48\movementmarker.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Movement Marker\obj\Debug\net48\movementmarker.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Movement Marker\obj\Debug\net48\movementmarker.xml
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Movement Marker\obj\Debug\net48\movementmarker.pdb

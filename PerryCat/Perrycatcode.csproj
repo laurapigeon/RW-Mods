@@ -332,11 +332,11 @@
 			<HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rain World\RainWorld_Data\Managed\UnityEngine.XRModule.dll</HintPath>
 		</Reference>
 	</ItemGroup>
-	<Target Name="CopyOutput" AfterTargets="Build" Condition="'$(RWMods_PerryCat)'!=''">
-		<Delete Files="$(RWMods_PerryCat)/**" />
-		<Message Text="DR: Buildcopy from [ $(TargetPath) ] to [ $(RWMods_PerryCat)/plugins ]" Importance="high" />
-		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(RWMods_PerryCat)/plugins" Retries="3" RetryDelayMilliseconds="300" />
-		<Copy SourceFiles="@(_CopyItems)" DestinationFolder="$(RWMods_PerryCat)/%(RecursiveDir)" Retries="3" RetryDelayMilliseconds="300" />
-		<!-- <Copy SourceFiles="modinfo.json" DestinationFolder="$(RWMods_PerryCat)" Retries="3" RetryDelayMilliseconds="300"/> -->
+	<Target Name="CopyOutput" AfterTargets="Build" Condition="'$(RWMods)/perrycat'!=''">
+		<Delete Files="$(RWMods)/perrycat/**" />
+		<Message Text="DR: Buildcopy from [ $(TargetPath) ] to [ $(RWMods)/perrycat/plugins ]" Importance="high" />
+		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(RWMods)/perrycat/plugins" Retries="3" RetryDelayMilliseconds="300" />
+		<Copy SourceFiles="@(_CopyItems)" DestinationFolder="$(RWMods)/perrycat/%(RecursiveDir)" Retries="3" RetryDelayMilliseconds="300" />
+		<!-- <Copy SourceFiles="modinfo.json" DestinationFolder="$(RWMods)/perrycat" Retries="3" RetryDelayMilliseconds="300"/> -->
 	</Target>
 </Project>

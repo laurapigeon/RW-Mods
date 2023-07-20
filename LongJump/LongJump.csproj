@@ -329,11 +329,11 @@
 	    <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Rain World\RainWorld_Data\Managed\UnityEngine.XRModule.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
-	<Target Name="CopyOutput" AfterTargets="Build" Condition="'$(RWMods_LongJump)'!=''">
-		<Delete Files="$(RWMods_LongJump)/**" />
-		<Message Text="DR: Buildcopy from [ $(TargetPath) ] to [ $(RWMods_LongJump)/plugins ]" Importance="high" />
-		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(RWMods_LongJump)/plugins" Retries="3" RetryDelayMilliseconds="300" />
-		<Copy SourceFiles="@(_CopyItems)" DestinationFolder="$(RWMods_LongJump)/%(RecursiveDir)" Retries="3" RetryDelayMilliseconds="300" />
-		<!-- <Copy SourceFiles="modinfo.json" DestinationFolder="$(RWMods_LongJump)" Retries="3" RetryDelayMilliseconds="300"/> -->
+	<Target Name="CopyOutput" AfterTargets="Build" Condition="'$(RWMods)/longjump'!=''">
+		<Delete Files="$(RWMods)/longjump/**" />
+		<Message Text="DR: Buildcopy from [ $(TargetPath) ] to [ $(RWMods)/longjump/plugins ]" Importance="high" />
+		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(RWMods)/longjump/plugins" Retries="3" RetryDelayMilliseconds="300" />
+		<Copy SourceFiles="@(_CopyItems)" DestinationFolder="$(RWMods)/longjump/%(RecursiveDir)" Retries="3" RetryDelayMilliseconds="300" />
+		<!-- <Copy SourceFiles="modinfo.json" DestinationFolder="$(RWMods)/longjump" Retries="3" RetryDelayMilliseconds="300"/> -->
 	</Target>
 </Project>

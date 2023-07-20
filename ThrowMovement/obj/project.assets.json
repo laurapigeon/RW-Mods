@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Laura\\Documents\\LAURASSTICKMEMORIAL\\Codes\\ThrowMovement\\ThrowMovement.csproj",
+      "projectUniqueName": "C:\\Users\\Laura\\Documents\\LAURASSTICKMEMORIAL\\Codes\\RW Mods\\ThrowMovement\\ThrowMovement.csproj",
       "projectName": "ThrowMovement",
-      "projectPath": "C:\\Users\\Laura\\Documents\\LAURASSTICKMEMORIAL\\Codes\\ThrowMovement\\ThrowMovement.csproj",
+      "projectPath": "C:\\Users\\Laura\\Documents\\LAURASSTICKMEMORIAL\\Codes\\RW Mods\\ThrowMovement\\ThrowMovement.csproj",
       "packagesPath": "C:\\Users\\Laura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Laura\\Documents\\LAURASSTICKMEMORIAL\\Codes\\ThrowMovement\\obj\\",
+      "outputPath": "C:\\Users\\Laura\\Documents\\LAURASSTICKMEMORIAL\\Codes\\RW Mods\\ThrowMovement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Laura\\AppData\\Roaming\\NuGet\\NuGet.Config",

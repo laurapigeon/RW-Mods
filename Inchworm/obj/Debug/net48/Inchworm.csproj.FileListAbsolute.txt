@@ -116,3 +116,11 @@ C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Inchworm\obj\Debug\net48\Inch
 C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Inchworm\obj\Debug\net48\Inchworm.dll
 C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Inchworm\obj\Debug\net48\Inchworm.xml
 C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\Inchworm\obj\Debug\net48\Inchworm.pdb
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Inchworm\obj\Debug\net48\Inchworm.csproj.AssemblyReference.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Inchworm\obj\Debug\net48\Inchworm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Inchworm\obj\Debug\net48\Inchworm.AssemblyInfoInputs.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Inchworm\obj\Debug\net48\Inchworm.AssemblyInfo.cs
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Inchworm\obj\Debug\net48\Inchworm.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Inchworm\obj\Debug\net48\Inchworm.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Inchworm\obj\Debug\net48\Inchworm.xml
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\Inchworm\obj\Debug\net48\Inchworm.pdb

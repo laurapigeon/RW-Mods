@@ -114,3 +114,11 @@ C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PhysicsSpeedConfig\obj\Debug\
 C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PhysicsSpeedConfig\obj\Debug\net48\PhysicsSpeedConfig.dll
 C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PhysicsSpeedConfig\obj\Debug\net48\PhysicsSpeedConfig.xml
 C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\PhysicsSpeedConfig\obj\Debug\net48\PhysicsSpeedConfig.pdb
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PhysicsSpeedConfig\obj\Debug\net48\PhysicsSpeedConfig.csproj.AssemblyReference.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PhysicsSpeedConfig\obj\Debug\net48\PhysicsSpeedConfig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PhysicsSpeedConfig\obj\Debug\net48\PhysicsSpeedConfig.AssemblyInfoInputs.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PhysicsSpeedConfig\obj\Debug\net48\PhysicsSpeedConfig.AssemblyInfo.cs
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PhysicsSpeedConfig\obj\Debug\net48\PhysicsSpeedConfig.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PhysicsSpeedConfig\obj\Debug\net48\PhysicsSpeedConfig.dll
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PhysicsSpeedConfig\obj\Debug\net48\PhysicsSpeedConfig.xml
+C:\Users\Laura\Documents\LAURASSTICKMEMORIAL\Codes\RW Mods\PhysicsSpeedConfig\obj\Debug\net48\PhysicsSpeedConfig.pdb

@@ -320,15 +320,11 @@
 	<ItemGroup>
 		<_CopyItems Include="modfiles/**" />
 	</ItemGroup>
-	<Target Name="CopyOutput" AfterTargets="Build" Condition="'$(RWMods_PhysicsSpeedConfig)'!=''">
-		<Delete Files="$(RWMods_PhysicsSpeedConfig)/**" />
-		<Message Text="DR: Buildcopy from [ $(TargetPath) ] to [ $(RWMods_PhysicsSpeedConfig) ]" Importance="high" />
-		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(RWMods_PhysicsSpeedConfig)/plugins" Retries="3" RetryDelayMilliseconds="300" />
-		<Copy SourceFiles="@(_CopyItems)" DestinationFolder="$(RWMods_PhysicsSpeedConfig)/%(RecursiveDir)" Retries="3" RetryDelayMilliseconds="300" />
-		<!-- <Copy 
-	    SourceFiles="modinfo.json"
-	    DestinationFolder="$(RWMods_PhysicsSpeedConfig)"
-	    Retries="3"
-	    RetryDelayMilliseconds="300"/> -->
+	<Target Name="CopyOutput" AfterTargets="Build" Condition="'$(RWMods)/psconfig'!=''">
+		<Delete Files="$(RWMods)/psconfig/**" />
+		<Message Text="DR: Buildcopy from [ $(TargetPath) ] to [ $(RWMods)/psconfig/plugins ]" Importance="high" />
+		<Copy SourceFiles="$(TargetPath)" DestinationFolder="$(RWMods)/psconfig/plugins" Retries="3" RetryDelayMilliseconds="300" />
+		<Copy SourceFiles="@(_CopyItems)" DestinationFolder="$(RWMods)/psconfig/%(RecursiveDir)" Retries="3" RetryDelayMilliseconds="300" />
+		<!-- <Copy SourceFiles="modinfo.json" DestinationFolder="$(RWMods)/psconfig" Retries="3" RetryDelayMilliseconds="300"/> -->
 	</Target>
 </Project>
